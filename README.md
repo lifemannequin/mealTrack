@@ -1,1 +1,2 @@
 # mealTrack
+There are 2 scripts. First, mealTrack.R calculates 3 macronutrients (proteins, fat and carbohydrates) and the calories of each ingredient and total for the day. Second, calRec.R calculates the macronutrients for a list of ingredients to calculate meal plans or calculate the values for 100 gr of product. The file food_composition.csv is the file with ingredients and the nutrients for 100gr of ingredient. I lost where the file was obtained and it has new ones added as I needed.
