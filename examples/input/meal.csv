@@ -1,0 +1,840 @@
+#"date","meal","food","weight"
+190119,"b","Bread, white, average",36.0
+190119,"b","Eggs, chicken, whole, raw",52.0
+190119,"b","butter,clarified",5.0
+190119,"b","Ham,parmacotto",20.0
+190119,"l","Sweet potato, boiled in unsalted water, flesh only",90.0
+190119,"l","Tomatoes, standard, raw",100.0
+190119,"l","Spinach, baby, raw",50.0
+190119,"l","mayoyo",24.0
+190119,"l","cheese, spread,milbona",50.0
+190119,"d","Turkey, light meat, raw",150.0
+190119,"d","Avocado, average, flesh only",100.0
+190119,"d","Cucumber, raw, flesh and skin",100.0
+190119,"br","chocolate,schegetten,nut",22.0
+190119,"br","Coronation chicken, veronica",60.0
+190120,"b","Bread, white, average",36.0
+190120,"b","jam, apricot, hero",6.0
+190120,"l","Pasta, egg, white, dried, raw",75.0
+190120,"l","Aubergine, raw",70.0
+190120,"l","Cheese, Ricotta",50.0
+190120,"l","passata",70.0
+190120,"br","pusd",170.0
+190120,"br","Apples, eating, raw, flesh and skin",137.0
+190120,"d","Curry,ryoux,japanese",32.5
+190120,"d","Potatoes, new and salad, flesh only, raw",120.0
+190120,"d","Carrots, old, raw",39.0
+190120,"d","Onions, raw",42.0
+190120,"d","Turkey, light meat, raw",100.0
+190120,"d","Apples, eating, raw, flesh and skin",26.5
+190120,"d","Rice, white, basmati, raw",50.0
+190121,"b","Bread, white, average",36.0
+190121,"b","Eggs, chicken, whole, raw",52.0
+190121,"b","Ham,parmacotto",20.0
+190121,"l","Potatoes, old, boiled in salted water, flesh only",150.0
+190121,"l","Tomatoes, standard, raw",120.0
+190121,"l","Tuna, canned in sunflower oil, drained",52
+190121,"br","Coronation chicken, veronica",80.0
+190121,"br","chocolate,schegetten,nut",26.5
+190121,"d","Spinach, baby, raw",100.0
+190121,"d","Pork, diced, raw, lean",150.0
+190121,"d","Onions, raw",42.0
+190121,"d","Garlic, raw",5.0
+190121,"br","Frankfuter,mixed",100
+190121,"br","mayoyo",10.0
+190121,"br","Mayonnaise, standard, retail",30.0
+190122,"b","Bread, white, average",36.0
+190122,"b","Eggs, chicken, whole, raw",52.0
+190122,"b","butter,clarified",10
+190122,"br","Cheese, hard, average",160
+190122,"l","Potatoes, old, boiled in salted water, flesh only",150.0
+190122,"l","Tomatoes, standard, raw",120.0
+190122,"l","Tuna, canned in sunflower oil, drained",52
+190122,"d","Spinach, baby, raw",100.0
+190122,"d","Pork, diced, raw, lean",150
+190122,"d","Onions, raw",42.0
+190122,"d","Garlic, raw",5.0
+190122,"br","Chicken portions, battered, deep fried, takeaway",85.0
+190122,"br","Melon, Galia, flesh only",200.0
+190123,"b","Bread, white, average",36.0
+190123,"b","Eggs, chicken, whole, raw",52.0
+190123,"b","butter,clarified",10.0
+190123,"l","Potatoes, old, boiled in salted water, flesh only",150.0
+190123,"l","Tomatoes, standard, raw",60.0
+190123,"l","Cucumber, raw, flesh and skin",81
+190123,"l","Tuna, canned in sunflower oil, drained",52
+190123,"l","Mayonnaise, standard, retail",24
+190123,"d","Spinach, baby, raw",100.0
+190123,"d","Pork, diced, raw, lean",150.0
+190123,"d","Onions, raw",42.0
+190123,"d","Garlic, raw",5.0
+190123,"d","Cucumber, raw, flesh and skin",81
+190123,"d","Avocado, average, flesh only",50.0
+190123,"br","chocolate,schegetten,nut",16.5
+190123,"br","Avocado, average, flesh only",100.0
+190123,"br","Coronation chicken, veronica",80.0
+190124,"b","Cornmeal, sifted",50.0
+190124,"b","butter,clarified",5.0
+190124,"br","pusd",60.0
+190124,"l","Pasta, egg, white, dried, raw",75.0
+190124,"l","Cream, dairy, extra thick (24% fat)",62.5
+190124,"l","Pesto, green",12.0
+190124,"br","chocolate,schegetten,nut",5.5
+190124,"d","Pork, diced, raw, lean",100
+190124,"d","Pepper, capsicum, red, raw",50.0
+190124,"d","Noodles, rice, fine, dried, boiled in unsalted water",75.0
+190124,"d","Sweetcorn kernels, canned in water, drained",25.0
+190126,"b","Bread, white, average",36.0
+190126,"b","Eggs, chicken, whole, raw",52.0
+190126,"b","butter,clarified",5
+190126,"l","Lentils, green and brown, whole, dried, raw",47.5
+190126,"l","Cabbage, average, raw",100.0
+190126,"l","Tomatoes, standard, raw",100.0
+190126,"l","Bacon rashers, back, raw",50.0
+190126,"d","Turkey, light meat, raw",100.0
+190126,"d","Onions, raw",42.0
+190126,"d","Pepper, capsicum, red, raw",50.0
+190126,"d","Mushrooms, white, raw",50
+190126,"d","Yogurt, low fat, plain",100
+190126,"br","Peanuts, dry roasted",5
+190126,"br","Chestnuts, dried",30.0
+190126,"br","Avocado, average, flesh only",200.0
+190126,"br","Turkey, light meat, raw",150.0
+190126,"br","Mayonnaise, standard, retail",30.0
+190126,"br","Salami",50.0
+190126,"br","chocolate,schegetten,nut",11
+190127,"b","Bread, white, average",36.0
+190127,"b","Eggs, chicken, whole, raw",52.0
+190127,"b","butter,clarified",5
+190127,"l","Lentils, green and brown, whole, dried, raw",47.5
+190127,"l","Cabbage, average, raw",100.0
+190127,"l","Tomatoes, standard, raw",100.0
+190127,"l","Bacon rashers, back, raw",50.0
+190127,"d","Turkey, light meat, raw",200.0
+190127,"d","Onions, raw",42.0
+190127,"d","Pepper, capsicum, red, raw",50.0
+190127,"d","Yogurt, low fat, plain",100
+190127,"br","Avocado, average, flesh only",100.0
+190127,"br","Turkey, light meat, raw",150.0
+190127,"br","Mayonnaise, standard, retail",40.0
+190127,"br","chocolate,schegetten,nut",16.5
+190202,"b","Bread, white, average",36.0
+190202,"b","Eggs, chicken, whole, raw",52.0
+190202,"b","butter,clarified",5
+190202,"l","Cabbage, average, raw",100.0
+190202,"l","Potatoes, new and salad, flesh only, raw",150.0
+190202,"l","butter,clarified",2.8
+190202,"l","Milk, 1% fat, pasteurised",19.5
+190202,"l","Bacon rashers, back, raw",33.3
+190202,"d","Onions, raw",42.0
+190202,"d","Pepper, capsicum, red, raw",100.0
+190202,"d","Oil, sunflower",10.0
+190202,"d","Pork, diced, raw, lean",100.0
+190202,"br","chocolate,schegetten,nut",55.0
+190202,"br","Oranges, flesh only",100.0
+190202,"br","Cheese, Feta",100.0
+190202,"br","Turkey, light meat, raw",200.0
+190202,"br","Avocado, average, flesh only",100.0
+190202,"br","Bread, white, average",36.0
+190203,"b","Bread, white, average",36.0
+190203,"b","Eggs, chicken, whole, raw",52.0
+190203,"b","butter,clarified",5
+190203,"l","Cabbage, average, raw",100.0
+190203,"l","Potatoes, new and salad, flesh only, raw",150.0
+190203,"l","butter,clarified",2.8
+190203,"l","Milk, 1% fat, pasteurised",19.5
+190203,"l","Bacon rashers, back, raw",33.3
+190203,"d","Onions, raw",42.0
+190203,"d","Pepper, capsicum, red, raw",100.0
+190203,"d","Oil, sunflower",10.0
+190203,"d","Pork, diced, raw, lean",100.0
+190203,"br","chocolate,schegetten,nut",11.0
+190203,"br","Oranges, flesh only",25.0
+190203,"br","Cheese, Feta",26.0
+190203,"br","Turkey, light meat, raw",100.0
+190203,"br","Avocado, average, flesh only",100.0
+190203,"br","mayoyo",25.0
+190204,"b","Bread, white, average",36.0
+190204,"b","Eggs, chicken, whole, raw",52.0
+190204,"b","butter,clarified",5
+190204,"l","Cabbage, average, raw",100.0
+190204,"l","Potatoes, new and salad, flesh only, raw",150.0
+190204,"l","butter,clarified",2.8
+190204,"l","Milk, 1% fat, pasteurised",19.5
+190204,"l","Bacon rashers, back, raw",33.3
+190204,"d","Onions, raw",42.0
+190204,"d","Pepper, capsicum, red, raw",100.0
+190204,"d","Oil, sunflower",10.0
+190204,"d","Pork, diced, raw, lean",100.0
+190204,"br","chocolate,schegetten,nut",11.0
+190204,"br","Cheese, Feta",15.0
+190204,"br","Turkey, light meat, raw",100.0
+190204,"br","Avocado, average, flesh only",100.0
+190204,"br","mayoyo",25.0
+190204,"br","crunchy,dark",22.0
+190205,"b","Bread, white, average",63.0
+190205,"b","margarine",10.0
+190206,"b","Bread, white, average",36.0
+190206,"b","Eggs, chicken, whole, raw",52.0
+190206,"b","margarine",5.0
+190206,"l","Tomatoes, standard, raw",100.0
+190206,"l","Potatoes, new and salad, flesh only, raw",150.0
+190206,"l","Cod, flesh only, raw",100
+190206,"l","Oil, sunflower",3.5
+190206,"d","Turkey, light meat, raw",150.0
+190206,"d","Spinach, baby, raw",100.0
+190206,"d","Tomato ketchup",20.0
+190206,"d","mayoyo",25.0
+190206,"br","Turkey, light meat, raw",100.0
+190206,"br","Avocado, average, flesh only",100.0
+190206,"br","mayoyo",25.0
+190206,"br","chocolate,schegetten,nut",22.0
+190207,"b","Bread, white, average",36.0
+190207,"b","Eggs, chicken, whole, raw",52.0
+190207,"b","margarine",5.0
+190207,"l","Tomatoes, standard, raw",100.0
+190207,"l","Potatoes, new and salad, flesh only, raw",150.0
+190207,"l","Cod, flesh only, raw",100
+190207,"l","Oil, sunflower",3.5
+190207,"d","Turkey, light meat, raw",150.0
+190207,"d","Spinach, baby, raw",100.0
+190207,"d","mayoyo",65.0
+190207,"br","Turkey, light meat, raw",100.0
+190207,"br","Avocado, average, flesh only",100.0
+190207,"br","mayoyo",25.0
+190207,"d","Tomato ketchup",20.0
+190207,"br","chocolate,schegetten,nut",11.0
+190207,"br","Oranges, flesh only",25.0
+190207,"br","almond bites",13.0
+190207,"br","salamini",45.0
+190208,"b","Bread, white, average",36.0
+190208,"b","Eggs, chicken, whole, raw",52.0
+190208,"b","margarine",5.0
+190208,"l","Tomatoes, standard, raw",100.0
+190208,"l","Potatoes, new and salad, flesh only, raw",150.0
+190208,"l","Cod, flesh only, raw",100
+190208,"l","Oil, sunflower",3.5
+190208,"d","Turkey, light meat, raw",150.0
+190208,"d","Spinach, baby, raw",100.0
+190208,"d","mayoyo",65.0
+190208,"br","Pork, diced, raw, lean",100.0
+190208,"br","Avocado, average, flesh only",100.0
+190208,"l","mayoyo",50.0
+190208,"d","Tomato ketchup",20.0
+190208,"br","chocolate,schegetten,nut",22.0
+190208,"br","bread,potato",20.0
+190208,"br","almond bites",13.0
+190208,"br","Oranges, flesh only",25.0
+190210,"b","Bread, white, average",36.0
+190210,"b","Eggs, chicken, whole, raw",52.0
+190210,"b","margarine",5.0
+190210,"l","Potatoes, new and salad, flesh only, raw",150.0
+190210,"l","Tuna, canned in sunflower oil, drained",52
+190210,"l","Onions, raw",52.0
+190210,"br","almond bites",26.0
+190210,"br","Oranges, flesh only",25.0
+190210,"br","chocolate,schegetten,nut",16.5
+190210,"d","Pork, diced, raw, lean",150.0
+190210,"d","Oil, sunflower",15.0
+190210,"br","Beef, braising steak, raw, lean",100.0
+190210,"br","Avocado, average, flesh only",100.0
+190210,"br","mayoyo",50.0
+190211,"b","Bread, white, average",36.0
+190211,"b","Eggs, chicken, whole, raw",52.0
+190211,"b","margarine",5.0
+190211,"l","Potatoes, new and salad, flesh only, raw",150.0
+190211,"l","Tuna, canned in sunflower oil, drained",52
+190211,"l","Onions, raw",52.0
+190211,"br","chocolate,schegetten,nut",11.0
+190211,"d","Pork, diced, raw, lean",150.0
+190211,"d","passata",50.0
+190211,"d","Oil, sunflower",15.0
+190211,"br","Pork, diced, raw, lean",100.0
+190211,"br","Avocado, average, flesh only",100.0
+190211,"br","mayoyo",25.0
+190211,"br","Cheese, Gouda",25.0
+190211,"br","Ham",20.0
+190213,"b","Bread, white, average",36.0
+190213,"b","Eggs, chicken, whole, raw",52.0
+190213,"b","margarine",5.0
+190213,"l","Potatoes, new and salad, flesh only, raw",150.0
+190213,"l","Tuna, canned in sunflower oil, drained",52
+190213,"l","Onions, raw",52.0
+190213,"d","Pork, diced, raw, lean",150.0
+190213,"d","passata",50.0
+190213,"d","Oil, sunflower",15.0
+190213,"br","Ham",20.0
+190213,"br","Avocado, average, flesh only",100.0
+190213,"br","mayoyo",25.0
+190213,"br","Turkey, light meat, raw",150.0
+190214,"b","Ham",20.0
+190214,"b","Bread, white, average",36.0
+190214,"b","Eggs, chicken, whole, raw",52.0
+190214,"b","margarine",5.0
+190214,"br","chocolate,schegetten,nut",16.5
+190214,"br","Avocado, average, flesh only",100.0
+190214,"br","mayoyo",25.0
+190214,"l","Potatoes, new and salad, flesh only, raw",150.0
+190214,"l","Bacon rashers, back, raw",33.3
+190214,"l","passata",100.0
+190214,"l","Cheese, Ricotta",30.0
+190214,"d","Turkey, light meat, raw",150.0
+190214,"d","Pepper, capsicum, red, raw",40.0
+190214,"d","Tomatoes, standard, raw",50.0
+190214,"d","Cream, dairy, extra thick (24% fat)",62.5
+190214,"br","almond bites",13.0
+190215,"b","Bread, white, average",36.0
+190215,"b","Eggs, chicken, whole, raw",52.0
+190215,"b","margarine",5.0
+190215,"br","chocolate,schegetten,nut",5.5
+190215,"br","Avocado, average, flesh only",50.0
+190215,"br","mayoyo",13.0
+190215,"l","Potatoes, new and salad, flesh only, raw",150.0
+190215,"l","Bacon rashers, back, raw",33.3
+190215,"l","passata",100.0
+190215,"l","Cheese, Mozzarella, fresh",30.0
+190215,"d","Turkey, light meat, raw",150.0
+190215,"d","Pepper, capsicum, red, raw",60.0
+190215,"d","Tomatoes, standard, raw",50.0
+190215,"d","Cream, dairy, extra thick (24% fat)",62.5
+190215,"br","almond bites",13.0
+190215,"br","Mango, unripe, green flesh, raw",200.0
+190215,"br","Nuts, mixed",20.0
+190216,"b","Bread, white, average",36.0
+190216,"b","Eggs, chicken, whole, raw",52.0
+190216,"b","margarine",5.0
+190216,"br","chocolate,schegetten,nut",11.0
+190216,"br","mayoyo",25.0
+190216,"l","Potatoes, new and salad, flesh only, raw",150.0
+190216,"l","Bacon rashers, back, raw",33.3
+190216,"l","passata",100.0
+190216,"l","Cheese, Mozzarella, fresh",20.0
+190216,"d","Turkey, light meat, raw",450.0
+190216,"d","Pepper, capsicum, red, raw",60.0
+190216,"d","Tomatoes, standard, raw",50.0
+190216,"d","Cream, dairy, extra thick (24% fat)",120.0
+190216,"br","Oranges, flesh only",50.0
+190218,"b","Bread, white, average",36.0
+190218,"b","Eggs, chicken, whole, raw",52.0
+190218,"b","butter,clarified",5
+190218,"br","almond bites",13.0
+190218,"d","Pork, diced, raw, lean",150.0
+190218,"d","Oil, sunflower",5.0
+190218,"d","Aubergine, raw",150.0
+190218,"br","chocolate,schegetten,nut",11.0
+190218,"br","Oranges, flesh only",25.0
+190218,"br","Beef, braising steak, raw, lean",100.0
+190218,"br","Avocado, average, flesh only",50.0
+190218,"br","mayoyo",8.0
+190218,"l","Lentils, green and brown, whole, dried, raw",40.0
+190218,"l","Cabbage, average, raw",75.0
+190218,"l","Tomatoes, standard, raw",100.0
+190218,"l","Bacon rashers, back, raw",33.3
+190219,"b","Bread, white, average",36.0
+190219,"b","Eggs, chicken, whole, raw",52.0
+190219,"b","butter,clarified",5
+190219,"br","almond bites",26.0
+190219,"d","Pork, diced, raw, lean",150.0
+190219,"d","Oil, sunflower",5.0
+190219,"d","Aubergine, raw",150.0
+190219,"br","chocolate,schegetten,nut",11.0
+190219,"br","Beef, braising steak, raw, lean",100.0
+190219,"br","Avocado, average, flesh only",50.0
+190219,"br","mayoyo",15.0
+190219,"l","Lentils, green and brown, whole, dried, raw",40.0
+190219,"l","Cabbage, average, raw",75.0
+190219,"l","Tomatoes, standard, raw",100.0
+190219,"l","Bacon rashers, back, raw",33.3
+190219,"br","Cheese, Mozzarella, fresh",30.0
+190220,"b","Bread, white, average",36.0
+190220,"b","Eggs, chicken, whole, raw",52.0
+190220,"b","butter,clarified",5
+190220,"br","almond bites",26.0
+190220,"d","Pork, diced, raw, lean",150.0
+190220,"d","Oil, sunflower",5.0
+190220,"d","Aubergine, raw",150.0
+190220,"br","chocolate,schegetten,nut",11.0
+190220,"br","Beef, braising steak, raw, lean",100.0
+190220,"br","Avocado, average, flesh only",65.0
+190220,"br","mayoyo",15.0
+190220,"br","Tomatoes, standard, raw",91.0
+190220,"l","Lentils, green and brown, whole, dried, raw",40.0
+190220,"l","Cabbage, average, raw",75.0
+190220,"l","Tomatoes, standard, raw",100.0
+190220,"l","Bacon rashers, back, raw",33.3
+190220,"br","Cheese, Mozzarella, fresh",25.0
+190222,"b","Bread, white, average",36.0
+190222,"b","Eggs, chicken, whole, raw",52.0
+190222,"b","butter,clarified",5
+190222,"d","Turkey, light meat, raw",150.0
+190222,"d","Pepper, capsicum, red, raw",100
+190222,"d","Yogurt, low fat, plain",50.0
+190222,"d","Onions, raw",42.0
+190222,"d","Tomatoes, standard, raw",50.0
+190222,"l","Cabbage, average, raw",85.0
+190222,"l","Potatoes, new and salad, flesh only, raw",140.0
+190222,"l","butter,clarified",2.5
+190222,"l","Milk, 1% fat, pasteurised",17.0
+190222,"l","Bacon rashers, back, raw",33.0
+190222,"br","Avocado, average, flesh only",1.0
+190222,"br","mayoyo",15.0
+190222,"br","Turkey, light meat, raw",100.0
+190222,"br","almond bites",13.0
+190222,"br","chocolate,schegetten,nut",5.5
+190222,"br","Cheese, Feta",50.0
+190223,"b","Bread, white, average",36.0
+190223,"b","Eggs, chicken, whole, raw",52.0
+190223,"b","Cheese, Feta",15.0
+190223,"d","Turkey, light meat, raw",150.0
+190223,"d","Pepper, capsicum, red, raw",111.7
+190223,"d","Onions, raw",35.3
+190223,"d","Tomatoes, standard, raw",37.0
+190223,"b","Bacon rashers, back, raw",15.0
+190223,"br","Avocado, average, flesh only",66.0
+190223,"br","mayoyo",15.0
+190223,"br","Turkey, light meat, raw",100.0
+190223,"br","almond bites",26.0
+190223,"br","chocolate,schegetten,nut",11.0
+190223,"br","Cheese, Feta",50.0
+190223,"l","crepes,choco",32.0
+190224,"b","Bread, white, average",36.0
+190224,"b","Eggs, chicken, whole, raw",52.0
+190224,"b","butter,clarified",5
+190224,"d","Turkey, light meat, raw",150.0
+190224,"d","Pepper, capsicum, red, raw",111.7
+190224,"d","mayoyo",15.0
+190224,"d","Onions, raw",35.3
+190224,"d","Tomatoes, standard, raw",37.0
+190224,"l","Cabbage, average, raw",75.0
+190224,"l","Potatoes, new and salad, flesh only, raw",150.0
+190224,"l","butter,clarified",2.5
+190224,"l","Milk, 1% fat, pasteurised",17.75
+190224,"l","Bacon rashers, back, raw",66.0
+190224,"l","mayoyo",15.0
+190224,"br","Avocado, average, flesh only",50.0
+190224,"br","mayoyo",15.0
+190224,"br","Turkey, light meat, raw",150.0
+190224,"br","almond bites",13.0
+190224,"br","chocolate,schegetten,nut",11.0
+190224,"br","Cheese, Feta",70.0
+190225,"b","Bread, white, average",36.0
+190225,"b","Eggs, chicken, whole, raw",52.0
+190225,"b","butter,clarified",5
+190225,"d","Turkey, light meat, raw",150.0
+190225,"d","Pepper, capsicum, red, raw",111.7
+190225,"d","mayoyo",15.0
+190225,"d","Onions, raw",35.3
+190225,"d","Tomatoes, standard, raw",37.0
+190225,"l","Cabbage, average, raw",75.0
+190225,"l","Potatoes, new and salad, flesh only, raw",150.0
+190225,"l","butter,clarified",2.5
+190225,"l","Milk, 1% fat, pasteurised",17.75
+190225,"l","Tuna, canned in sunflower oil, drained",52
+190225,"l","mayoyo",15.0
+190225,"br","Avocado, average, flesh only",76.0
+190225,"br","mayoyo",15.0
+190225,"br","Turkey, light meat, raw",150.0
+190225,"br","chocolate,schegetten,nut",11.0
+190225,"br","Cheese, Feta",50.0
+190225,"br","crepes,choco",32.0
+190303,"b","Bread, white, average",36.0
+190303,"b","Eggs, chicken, whole, raw",52.0
+190303,"b","butter,clarified",5
+190303,"br","chocolate,schegetten,nut",33.0
+190303,"d","Potatoes, new and salad, flesh only, raw",150.0
+190303,"d","Tomatoes, standard, raw",50.0
+190303,"d","Tuna, canned in sunflower oil, drained",52
+190303,"d","Cucumber, raw, flesh and skin",200.0
+190303,"l","Cabbage, average, raw",60.0
+190303,"l","Beef, mince, raw",150.0
+190303,"l","Onions, raw",11.3
+190303,"br","Avocado, average, flesh only",76.0
+190303,"br","mayoyo",15.0
+190303,"br","Chicken, light meat, raw",150.0
+190305,"b","Bread, white, average",36.0
+190305,"b","Eggs, chicken, whole, raw",52.0
+190305,"b","butter,clarified",5
+190305,"br","chocolate,schegetten,nut",16.0
+190305,"d","shirataki,noodles",95.0
+190305,"d","Vinegar, rice",2.0
+190305,"d","Soy sauce, light and dark varieties",5.0
+190305,"d","Tomatoes, standard, raw",80.0
+190305,"d","Tuna, canned in sunflower oil, drained",52.0
+190305,"d","Mushrooms, white, raw",160
+190305,"l","Cabbage, average, raw",60.0
+190305,"l","Beef, mince, raw",150.0
+190305,"l","Onions, raw",11.3
+190305,"br","Avocado, average, flesh only",76.0
+190305,"br","mayoyo",15.0
+190305,"br","Chicken, light meat, raw",150.0
+190305,"br","mochi",35.0
+190306,"b","Bread, white, average",36.0
+190306,"b","Eggs, chicken, whole, raw",52.0
+190306,"b","butter,clarified",5
+190306,"br","chocolate,schegetten,nut",16.0
+190306,"d","shirataki,noodles",95.0
+190306,"d","Vinegar, rice",5.0
+190306,"d","Soy sauce, light and dark varieties",6.0
+190306,"d","Tomatoes, standard, raw",80.0
+190306,"d","Tuna, canned in sunflower oil, drained",52.0
+190306,"d","Cucumber, raw, flesh and skin",120.0
+190306,"l","Cabbage, average, raw",60.0
+190306,"l","Beef, mince, raw",150.0
+190306,"l","Onions, raw",11.3
+190306,"br","Avocado, average, flesh only",76.0
+190306,"br","mayoyo",15.0
+190306,"br","Chicken, light meat, raw",150.0
+190306,"br","mochi",35.0
+190308,"b","Bread, white, average",36.0
+190308,"b","Eggs, chicken, whole, raw",52.0
+190308,"b","butter,clarified",5
+190308,"d","Beef, braising steak, raw, lean",150.0
+190308,"d","Aubergine, raw",233.0
+190308,"d","Mushrooms, white, raw",166.7
+190308,"d","Oil, sunflower",12.0
+190308,"d","Onions, raw",10.0
+190308,"l","Tomatoes, standard, raw",88.0
+190308,"l","Cucumber, raw, flesh and skin",111.0
+190308,"l","Potatoes, new and salad, flesh only, raw",150.0
+190308,"l","Tuna, canned in sunflower oil, drained",52
+190308,"br","Avocado, average, flesh only",84.0
+190308,"br","mayoyo",15.0
+190308,"br","Turkey, light meat, raw",100.0
+190308,"br","chocolate,schegetten,nut",11.0
+190308,"br","Melon, Galia, flesh only",125.0
+190309,"b","Bread, white, average",36.0
+190309,"b","Eggs, chicken, whole, raw",52.0
+190309,"b","butter,clarified",5
+190309,"d","Beef, braising steak, raw, lean",150.0
+190309,"d","Aubergine, raw",233.0
+190309,"d","Mushrooms, white, raw",166.7
+190309,"d","Oil, sunflower",12.0
+190309,"d","Onions, raw",10.0
+190309,"l","Tomatoes, standard, raw",76.0
+190309,"l","Cucumber, raw, flesh and skin",100.0
+190309,"l","Potatoes, new and salad, flesh only, raw",150.0
+190309,"l","Tuna, canned in sunflower oil, drained",52
+190309,"br","Avocado, average, flesh only",74.0
+190309,"br","mayoyo",30.0
+190309,"br","Turkey, light meat, raw",100.0
+190309,"br","chocolate,schegetten,nut",11.0
+190310,"b","Bread, white, average",36.0
+190310,"b","Eggs, chicken, whole, raw",52.0
+190310,"b","butter,clarified",5
+190310,"d","Beef, braising steak, raw, lean",150.0
+190310,"d","Aubergine, raw",233.0
+190310,"d","Mushrooms, white, raw",166.7
+190310,"d","Oil, sunflower",12.0
+190310,"d","Onions, raw",10.0
+190310,"l","Tomatoes, standard, raw",76.0
+190310,"l","Potatoes, new and salad, flesh only, raw",150.0
+190310,"l","Tuna, canned in sunflower oil, drained",100.0
+190310,"br","Avocado, average, flesh only",46.0
+190310,"br","mayoyo",15.0
+190310,"br","Turkey, light meat, raw",100.0
+190310,"br","chocolate,schegetten,nut",22.0
+190312,"b","Bread, white, average",36.0
+190312,"b","Eggs, chicken, whole, raw",52.0
+190312,"b","butter,clarified",5
+190312,"d","Turkey, light meat, raw",100.0
+190312,"d","Coconut milk, retail",50.0
+190312,"d","Pepper, capsicum, red, raw",50.0
+190312,"d","Onions, raw",27.0
+190312,"l","Potatoes, new and salad, flesh only, raw",127.0
+190312,"l","butter,clarified",2.8
+190312,"l","Cream, dairy, extra thick (24% fat)",25.0
+190312,"l","Cheese, Mozzarella, fresh",62.0
+190312,"l","Tomatoes, standard, raw",76.0
+190312,"br","Avocado, average, flesh only",50.0
+190312,"br","mayoyo",15.0
+190312,"br","Turkey, light meat, raw",100.0
+190312,"br","chocolate,nut,dark",11.0
+190312,"br","Ham,parmacotto",20.0
+190312,"br","Bread, white, average",15.0
+190312,"br","Jam, fruit with edible seeds",8.0
+190313,"b","Bread, white, average",36.0
+190313,"b","Eggs, chicken, whole, raw",52.0
+190313,"b","butter,clarified",5
+190313,"d","Turkey, light meat, raw",100.0
+190313,"d","Coconut milk, retail",50.0
+190313,"d","Pepper, capsicum, red, raw",50.0
+190313,"d","Onions, raw",27.0
+190313,"l","Potatoes, new and salad, flesh only, raw",127.0
+190313,"l","butter,clarified",2.8
+190313,"l","Cream, dairy, extra thick (24% fat)",25.0
+190313,"l","Cheese, Mozzarella, fresh",62.0
+190313,"l","Tomatoes, standard, raw",76.0
+190313,"br","Avocado, average, flesh only",39.0
+190313,"br","mayoyo",15.0
+190313,"br","Frankfuter,mixed",100.0
+190313,"br","chocolate,nut,dark",8.0
+190313,"br","Ham,parmacotto",20.0
+190313,"br","Bread, white, average",15.0
+190313,"br","Jam, fruit with edible seeds",8.0
+190315,"b","Bread, white, average",38.0
+190315,"b","Eggs, chicken, whole, raw",50.0
+190315,"b","butter,clarified",5
+190315,"d","Turkey, light meat, raw",125.0
+190315,"d","Coconut milk, retail",50.0
+190315,"d","Pepper, capsicum, red, raw",50.0
+190315,"d","Onions, raw",27.0
+190315,"l","Potatoes, new and salad, flesh only, raw",80.0
+190315,"l","Spring onions, bulbs and tops, raw",10.0
+190315,"l","Cheese, cottage, plain",60.0
+190315,"l","Tomatoes, standard, raw",76.0
+190315,"br","mayoyo",15.0
+190315,"br","Frankfuter,mixed",100.0
+190315,"br","chocolate,nut,dark",4.0
+190315,"br","Cake, sponge, homemade",35.0
+190315,"br","Cheese, Gouda",28.0
+190316,"b","Bread, white, average",36.0
+190316,"b","Eggs, chicken, whole, raw",50.0
+190316,"b","butter,clarified",4.0
+190316,"d","Turkey, light meat, raw",125.0
+190316,"d","Coconut milk, retail",50.0
+190316,"d","Pepper, capsicum, red, raw",50.0
+190316,"d","Onions, raw",27.0
+190316,"l","Potatoes, new and salad, flesh only, raw",80.0
+190316,"l","Spring onions, bulbs and tops, raw",12.0
+190316,"l","Turkey, meat, average, raw",87.0
+190316,"l","Tomatoes, standard, raw",95.0
+190316,"br","mayoyo",30.0
+190316,"br","Turkey, light meat, raw",125.0
+190316,"br","chocolate,nut,dark",4.0
+190316,"br","Cake, sponge, homemade",35.0
+190316,"br","Cheese, Gouda",28.0
+190318,"b","Bread, white, average",36.0
+190318,"b","Eggs, chicken, whole, raw",50.0
+190318,"b","butter,clarified",4.0
+190318,"d","Turkey, light meat, raw",150.0
+190318,"br","Cheese, Gouda",28.0
+190318,"d","Artichoke, globe, boiled, weighed as served",110.0
+190318,"d","mayoyo",30.0
+190318,"l","Cheesecake",110.0
+190318,"br","Cheesecake",98.0
+190318,"br","Breakfast cereal, puffed wheat, honey coated, fortified",33.0
+190319,"b","Bread, white, average",36.0
+190319,"b","Eggs, chicken, whole, raw",52.0
+190319,"b","butter,clarified",5
+190319,"l","Lentils, green and brown, whole, dried, raw",40.0
+190319,"l","Cabbage, average, raw",75.0
+190319,"l","Tomatoes, standard, raw",100.0
+190319,"l","Ham",85.0
+190319,"d","Turkey, light meat, raw",150.0
+190319,"d","Artichoke, globe, boiled, weighed as served",110.0
+190319,"d","mayoyo",45.0
+190319,"br","Avocado, average, flesh only",75.0
+190319,"br","mayoyo",30.0
+190319,"br","Turkey, light meat, raw",130.0
+190319,"br","Spinach, frozen, boiled in unsalted water",45.0
+190319,"br","Cheesecake",150.0
+190320,"b","Bread, white, average",40.0
+190320,"b","Eggs, chicken, whole, raw",52.0
+190320,"b","butter,clarified",4
+190320,"l","Lentils, green and brown, whole, dried, raw",40.0
+190320,"l","Cabbage, average, raw",75.0
+190320,"l","Tomatoes, standard, raw",100.0
+190320,"l","Ham",85.0
+190320,"d","Turkey, light meat, raw",150.0
+190320,"d","Artichoke, globe, boiled, weighed as served",186.0
+190320,"d","mayoyo",45.0
+190320,"br","Avocado, average, flesh only",35.0
+190320,"br","mayoyo",40.0
+190320,"br","Turkey, light meat, raw",130.0
+190320,"br","Spinach, frozen, boiled in unsalted water",45.0
+190320,"br","Cheesecake",95.0
+190320,"br","chocolate,nut,dark",4.0
+190320,"br","Bread, white, average",10.0
+190320,"br","Jam, fruit with edible seeds",5.0
+190323,"b","Bread, white, average",36.0
+190323,"b","Eggs, chicken, whole, raw",52.0
+190323,"b","butter,clarified",4
+190323,"l","Potatoes, new and salad, flesh only, raw",120.0
+190323,"l","Spring onions, bulbs and tops, raw",28.0
+190323,"l","Cheese, cottage, plain",200.0
+190323,"br","Cheesecake",112.0
+190323,"br","Avocado, average, flesh only",57.0
+190323,"br","mayoyo",15.0
+190323,"br","Beef, braising steak, raw, lean",40.0
+190323,"d","Beef, braising steak, raw, lean",150.0
+190323,"d","mayoyo",30.0
+190323,"d","Tomatoes, standard, raw",115.0
+190323,"br","mixed nuts with honey",20.0
+190323,"br","chocolate,nut,dark",5.0
+190325,"b","Bread, white, average",36.0
+190325,"b","Eggs, chicken, whole, raw",87.0
+190325,"b","butter,clarified",4
+190325,"l","Potatoes, new and salad, flesh only, raw",138.7
+190325,"l","Tuna, canned in sunflower oil, drained",66.7
+190325,"l","Onions, raw",71.3
+190325,"l","Cream, dairy, extra thick (24% fat)",118.0
+190325,"l","Cabbage, average, raw",59.0
+190325,"d","Turkey, light meat, raw",150.0
+190325,"d","mayoyo",30
+190325,"d","Aubergine, raw",100.0
+190325,"br","Cheesecake",112.0
+190325,"br","Avocado, average, flesh only",74.0
+190325,"br","mayoyo",15.0
+190325,"br","Turkey, light meat, raw",100.0
+190326,"b","Bread, white, average",36.0
+190326,"b","Eggs, chicken, whole, raw",42.0
+190326,"b","butter,clarified",4
+190326,"l","Potatoes, new and salad, flesh only, raw",138.7
+190326,"l","Tuna, canned in sunflower oil, drained",66.7
+190326,"l","Onions, raw",71.3
+190326,"l","Cream, dairy, extra thick (24% fat)",118.0
+190326,"l","Cabbage, average, raw",59.0
+190326,"d","Turkey, light meat, raw",150.0
+190326,"d","mayoyo",30
+190326,"d","Aubergine, raw",100.0
+190326,"br","Cheesecake",112.0
+190326,"br","Avocado, average, flesh only",74.0
+190326,"br","mayoyo",15.0
+190326,"br","Turkey, light meat, raw",100.0
+190405,"b","Bread, white, average",36.0
+190405,"b","Eggs, chicken, whole, raw",47.0
+190405,"b","butter,clarified",4
+190405,"l","Potatoes, new and salad, flesh only, raw",139.0
+190405,"l","Tuna, canned in sunflower oil, drained",50.0
+190405,"l","Tomatoes, standard, raw",147.0
+190405,"br","Apples, eating, raw, flesh and skin",87.0
+190405,"br","Cheese, Mozzarella, fresh",30.0
+190405,"d","Beef, braising steak, raw, lean",150.0
+190405,"d","Cream, dairy, extra thick (24% fat)",45.5
+190405,"d","Mushrooms, white, raw",150.0
+190405,"br","Avocado, average, flesh only",57.0
+190405,"br","mayoyo",15.0
+190405,"br","Turkey, light meat, raw",100.0
+190405,"br","almond bites",12.0
+190406,"b","Bread, white, average",36.0
+190406,"b","Eggs, chicken, whole, raw",47.0
+190406,"b","butter,clarified",4
+190406,"l","Potatoes, new and salad, flesh only, raw",139.0
+190406,"l","Tuna, canned in sunflower oil, drained",50.0
+190406,"l","Tomatoes, standard, raw",147.0
+190406,"br","Apples, eating, raw, flesh and skin",87.0
+190406,"br","Cheese, Mozzarella, fresh",60.0
+190406,"d","Beef, braising steak, raw, lean",150.0
+190406,"d","Cream, dairy, extra thick (24% fat)",45.5
+190406,"d","Mushrooms, white, raw",150.0
+190406,"br","Avocado, average, flesh only",75.0
+190406,"br","mayoyo",15.0
+190406,"br","Turkey, light meat, raw",100.0
+190406,"br","almond bites",15.0
+190408,"b","Bread, white, average",36.0
+190408,"b","Eggs, chicken, whole, raw",47.0
+190408,"b","butter,clarified",4.0
+190408,"l","Potatoes, new and salad, flesh only, raw",150.0
+190408,"l","Spring onions, bulbs and tops, raw",15.0
+190408,"l","Cheese, cottage, plain",133.3
+190408,"d","Tomatoes, standard, raw",100.0
+190408,"d","Aubergine, raw",120.0
+190408,"d","Turkey, light meat, raw",150.0
+190408,"d","Cheese, Ricotta",10.0
+190408,"br","Sugar, white",70.0
+190408,"br","Strawberries, raw",400.0
+190408,"br","almond bites",14.0
+190713,"b","Bread, white, average",36.0
+190713,"b","Eggs, chicken, whole, raw",52.0
+190713,"b","butter,clarified",5
+190713,"l","Tomatoes, standard, raw",130.0
+190713,"l","Potatoes, new and salad, flesh only, raw",150.0
+190713,"l","Frankfuter,mixed",125.0
+190713,"l","mayoyo",15.0
+190713,"br","Beef, braising steak, raw, lean",150.0
+190713,"br","Avocado, average, flesh only",83.0
+190713,"br","Cucumber, raw, flesh and skin",88.0
+190713,"br","Lettuce, average, raw",36.0
+190713,"br","mayoyo",15.0
+190713,"d","Pork, diced, raw, lean",133
+190713,"d","Cucumber, raw, flesh and skin",100.0
+190713,"br","Figs, whole green fruit, raw",77.0
+190714,"b","Bread, white, average",36.0
+190714,"b","Eggs, chicken, whole, raw",52.0
+190714,"b","butter,clarified",5
+190714,"l","Lentils, green and brown, whole, dried, raw",50.0
+190714,"l","Onions, raw",42.0
+190714,"l","Pepper, capsicum, red, raw",65.0
+190714,"br","Figs, whole green fruit, raw",40.0
+190714,"d","Avocado, average, flesh only",120.0
+190714,"d","Cucumber, raw, flesh and skin",150.0
+190714,"d","Chicken, meat, average, raw",200.0
+190714,"br","Bread, white, average",21.0
+190714,"br","cheese, spread,milbona",31.0
+190716,"b","Bread, white, average",36.0
+190716,"b","Eggs, chicken, whole, raw",52.0
+190716,"b","butter,clarified",5
+190716,"l","Lentils, green and brown, whole, dried, raw",50.0
+190716,"l","Onions, raw",42.0
+190716,"l","Pepper, capsicum, red, raw",65.0
+190716,"br","Bread, white, average",36.0
+190716,"d","Avocado, average, flesh only",77.0
+190716,"d","Chicken, meat, average, raw",200.0
+190716,"br","Bread, white, average",21.0
+190716,"br","cheese, spread,milbona",100.0
+190716,"br","Cheesecake,alonds",135.0
+190717,"b","Bread, white, average",36.0
+190717,"b","Eggs, chicken, whole, raw",52.0
+190717,"b","butter,clarified",5
+190717,"l","Cheesecake,alonds",135.0
+190717,"d","Pork, diced, raw, lean",200.0
+190717,"d","Aubergine, raw",132.0
+190717,"d","Tomatoes, standard, raw",132.0
+190719,"b","Corn snacks",45.0
+190719,"l","Potatoes, new and salad, flesh only, raw",150.0
+190719,"l","Frankfuter,mixed",125.0
+190719,"br","Cucumber, raw, flesh and skin",250.0
+190719,"d","passata",250.0
+190719,"d","Aubergine, raw",80.0
+190719,"d","Onions, raw",42.0
+190719,"d","Sausages, premium, raw",150.0
+190720,"b","Bread, white, average",36.0
+190720,"b","Eggs, chicken, whole, raw",52.0
+190720,"b","butter,clarified",5
+190720,"d","Aubergine, raw",80.0
+190720,"d","Onions, raw",42.0
+190720,"d","Sausages, premium, raw",150.0
+190720,"d","Chicken, meat, average, raw",320.0
+190720,"br","Biscuits, short, sweet",55.0
+190827,"b","Bread, white, average",36.0
+190827,"b","Eggs, chicken, whole, raw",52.0
+190827,"b","butter,clarified",5
+190827,"l","Onions, raw",42.0
+190827,"l","Aubergine, raw",70.0
+190827,"l","Tomatoes, standard, raw",170.0
+190827,"l","Beef, braising steak, raw, lean",100.0
+190827,"d","Turkey, light meat, raw",150.0
+190827,"d","Avocado, average, flesh only",74.0
+190827,"d","Cucumber, raw, flesh and skin",107.0
+190827,"br","Bananas, flesh only",200.0
+190827,"br","Creme caramel, retail",125.0
+190827,"br","soba", 70.0
+190828,"b","Bread, white, average",36.0
+190828,"b","Eggs, chicken, whole, raw",52.0
+190828,"b","butter,clarified",5
+190828,"l","Onions, raw",42.0
+190828,"l","ricotta salata",7
+190828,"l","Aubergine, raw",70.0
+190828,"l","Tomatoes, standard, raw",170.0
+190828,"l","Beef, braising steak, raw, lean",100.0
+190828,"d","Turkey, light meat, raw",150.0
+190828,"d","Avocado, average, flesh only",74.0
+190828,"d","Cucumber, raw, flesh and skin",107.0
+190828,"br","Peaches, flesh and skin, raw, weighed with stone",100.0
+190828,"br","Creme caramel, retail",125.0
+190828,"br","soba", 70.0
+190828,"br","Tortilla chips fried in sunflower oil", 40.0
+190828,"br","Mayonnaise, standard, retail",25.0
+190830,"b","Bread, white, average",36.0
+190830,"b","Eggs, chicken, whole, raw",52.0
+190830,"b","butter,clarified",5
+190830,"l","Onions, raw",42.0
+190830,"l","ricotta salata",8
+190830,"l","Aubergine, raw",70.0
+190830,"l","Tomatoes, standard, raw",170.0
+190830,"l","Beef, braising steak, raw, lean",100.0
+190830,"d","Turkey, light meat, raw",150.0
+190830,"d","Carrots, old, raw",113.0
+190830,"d","Radish, red, raw, flesh and skin",100.0
+190830,"br","Peaches, flesh and skin, raw, weighed with stone",220.0
+190830,"br","Apple,pastry", 97.0
